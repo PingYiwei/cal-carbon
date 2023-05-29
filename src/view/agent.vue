@@ -1,5 +1,5 @@
 <script setup>
-import {CaretRight, Minus, Plus} from "@element-plus/icons-vue";
+import {Minus, Plus} from "@element-plus/icons-vue";
 
 import moment from 'moment';
 import {computed, reactive, ref} from "vue";
